@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skins xmlns="http://myfaces.apache.org/trinidad/skin">
+  <skin>
+    <id>treedemoskin.desktop</id>
+    <family>treedemoskin</family>
+    <extends>alta-v1.1.desktop</extends>
+    <render-kit-id>org.apache.myfaces.trinidad.desktop</render-kit-id>
+    <style-sheet-name>skins/treedemoskin/treedemoskin.css</style-sheet-name>
+    <bundle-name>de.hahn.blog.treedemo.view.skinBundle</bundle-name>
+  </skin>
+</skins>
